@@ -7,8 +7,7 @@ registered nurse, combining SQL technical skills with clinical
 knowledge to interpret findings beyond raw numbers.
 
 ## Analyst background
-Favour Nwatu — Bachelor of Nursing Science, ESUT College
-of Medicine. Clinical experience across psychiatric, community health,
+Favour Nwatu — BNSc — ESUT College of Medicine (expected 2026) and NMCN licensure examination passed. Clinical experience across psychiatric, community health,
 and teaching hospital settings. SQL skills developed as part of a
 transition into health data and medical AI roles.
 
