@@ -1,6 +1,6 @@
 -- ============================================
 -- Health Data SQL Analysis
--- Analyst: Favour Christiana Nwatu, BNSc (RN)
+-- Analyst: Favour Nwatu, BNSc (RN)
 -- Dataset: Simulated diabetes patient dataset (40 patients)
 -- Tool: DB Fiddle (SQLite)
 -- ============================================
