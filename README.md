@@ -56,6 +56,11 @@ transition into health data and medical AI roles.
 - Clinical interpretation of data findings using nursing background
 - Professional documentation of analysis methodology and results
 
+ ## Query Screenshots
+ Results for all 8 queries are available as screenshot images in this
+repository, confirming that all queries were executed and returned
+correct results.
+
 ## Connect
-LinkedIn: linkedin.com/in/your-handle
+LinkedIn: www.linkedin.com/in/favour-nwatu-2b8846413
 Annotation Portfolio: github.com/Transformer-op/Medical-annotation-portfolio
